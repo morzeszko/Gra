@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monolitycznie", "Monolitycznie\Monolitycznie.csproj", "{4A25FEEC-043A-4BF3-B675-E91747C32098}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proceduralnie", "Proceduralnie\Proceduralnie.csproj", "{2EEF542D-9C13-4920-8126-39E9B1F2ED8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4A25FEEC-043A-4BF3-B675-E91747C32098}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A25FEEC-043A-4BF3-B675-E91747C32098}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A25FEEC-043A-4BF3-B675-E91747C32098}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EEF542D-9C13-4920-8126-39E9B1F2ED8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EEF542D-9C13-4920-8126-39E9B1F2ED8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EEF542D-9C13-4920-8126-39E9B1F2ED8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EEF542D-9C13-4920-8126-39E9B1F2ED8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
